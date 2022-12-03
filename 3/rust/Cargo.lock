@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "advent-of-code-22-problem-1"
+name = "advent-of-code-22-problem-3"
 version = "0.1.0"
 dependencies = [
  "clap",

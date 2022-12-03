@@ -3,7 +3,7 @@ authors = ["Jonathan Ellington <ellingtonjp@gmail.com>"]
 name = "advent-of-code-22-problem-2"
 version = "0.1.0"
 edition = "2021"
-description = "Solution to the 2021 Advent of Code, problem 2"
+description = "Solution to the 2022 Advent of Code, problem 2"
 
 [dependencies]
 clap = { version = "4.0.29", features = ["derive"] }
