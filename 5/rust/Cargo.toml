@@ -1,0 +1,9 @@
+[package]
+authors = ["Jonathan Ellington <ellingtonjp@gmail.com>"]
+name = "advent-of-code-22-problem-3"
+version = "0.1.0"
+edition = "2021"
+description = "Solution to the 2022 Advent of Code, problem 5"
+
+[dependencies]
+clap = { version = "4.0.29", features = ["derive"] }
